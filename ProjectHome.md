@@ -1,0 +1,1 @@
+Easy to use Ruby on Rails based CMS
